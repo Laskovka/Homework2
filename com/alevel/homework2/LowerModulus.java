@@ -1,3 +1,5 @@
+package com.alevel.homework2;
+
 public class LowerModulus {
     public static void main(String[] args) {
         double numberOne = 3.9;
